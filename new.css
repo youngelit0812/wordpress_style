@@ -1,0 +1,11 @@
+.nav {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+...
+.nav {
+    width: auto;
+}
+
+.hd_nav_box{z-index:10;width:100%;border-top:1px solid rgba(25,41,101,.2);padding-top:.6rem;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding-left:calc(7.5vw + 15px);padding-right:calc(7.5vw + 15px)}
